@@ -3,13 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "lodash": "^4.17.15",
+    "view-design": "^4.0.2",
     "vue": "^2.6.10",
+    "vue-grid-layout": "^2.3.7",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
