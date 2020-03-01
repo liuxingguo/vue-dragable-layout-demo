@@ -1,9 +1,9 @@
 {
-  "name": "drag-layout",
+  "name": "vue-dragable-layout-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "vue-cli-service serve",
+    "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
@@ -12,7 +12,6 @@
     "lodash": "^4.17.15",
     "view-design": "^4.0.2",
     "vue": "^2.6.10",
-    "vue-grid-layout": "^2.3.7",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
